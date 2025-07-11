@@ -19,7 +19,7 @@ Here is an image of what we want once we are finished:
 ```txt
 └── App
     ├── NavBar
-    ├── Home
+    ├── Home 
     ├── About
     |   └── Links
     └── ProjectList

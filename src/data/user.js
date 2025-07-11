@@ -8,7 +8,7 @@ const user = {
     linkedin: "https://www.linkedin.com/in/liza/",
   },
   projects: [
-    {
+    { 
       id: 1,
       name: "Reciplease",
       about: "A recipe tracking app",
